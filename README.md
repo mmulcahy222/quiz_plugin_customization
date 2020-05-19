@@ -42,8 +42,8 @@ There is a demonstration of how this plugin works to underscore the point.
 
 You change what the correct answer is in the question part of the plugin. As soon as the question is saved, the grades of the test, which is ideal for his use case. Really cool trick by automation. If I change the answer of one question, everything should reverse, and it did in these two images.
 
-![](watupro_test_1.png)
-![](watupro_test_2.png)
+![](images/watupro_test_1.png)
+![](images/watupro_test_2.png)
 
 The first part of the project updated the grades for the tests, and the second part updated the grades/point for the answer the student gave for each exam. I'll put up the second phase of the project on the README.md, but please see the whole source code at watupro.php for what I did. The code I added is in the bottom of the default watupro.php file!
 
